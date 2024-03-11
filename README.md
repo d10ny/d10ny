@@ -1,9 +1,18 @@
-- 👋 Hi, I’m @d10ny
-- 👀 I’m interested in coding, sketching and I love music and friends
-- 🌱 I’m currently learning python
-- 😄 Pronouns: she/her
 
-<!---
-d10ny/d10ny is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+-🍀 Hello there, my name is d10ny but you can call me Romi! 
+My pronouns is she/her ✨
+
+My interests:
+- Music
+- Coding
+- Hanging out with friends
+- Sketching
+- Gaming
+- Clothing
+- Animals
+- Food
+
+- 🐸 I'm learning the python language at this moment, more will come soon!
+I'm not a professional, so if there's any wrong things in my code then don't come at me!
+
+💚 Made by Romi 💚
